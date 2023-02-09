@@ -1,0 +1,45 @@
+/* */
+
+
+/*Box White Border*/
+#DivBox {
+    margin: auto;
+    background-color: white;
+    height: 497px;
+    width: 320px;
+    left: 560px;
+    top: 152px;
+    border-radius: 20px;
+    box-shadow: #000000;
+    padding: 16px;
+}
+
+#text {
+    width: 288px;
+    height: 56px;
+    font-style: normal;
+    font-family: 'Outfit';
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27.72px;
+    text-align: center;
+    color: #1F314F;
+
+    padding-left: 16px;
+}
+
+#paragraph {
+    width: 256px;
+    height: 57px;
+    top: 72px;
+    left: 16px;
+
+    font-family: 'Outfit';
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18.9px;
+    letter-spacing: 0.19px;
+    text-align: center;
+    color: #7D889E;
+    padding-left: 32px;
+}
